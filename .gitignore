@@ -10,3 +10,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+.idea/*
+
+cloudfunctions-v1/client.go
+cloudfunctions-v1/types.go
+cloudfunctions-v1/constants.go
+cloudfunctions-v1/model.json
+cloudfunctions-v1/provider.go
+cloudfunctions-v1/server.go
